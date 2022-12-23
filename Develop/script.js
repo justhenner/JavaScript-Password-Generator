@@ -9,6 +9,12 @@ var numbers = "1234567890";
 
 var symbols = "!#$%&'()*+,-.?:;<=>?@[]\]^_`{|}~";
 
+
+function action() {
+ 
+var store = prompt("How long is your password?"); 
+}
+
 function generatePassword()
   console.log(randomNumber)
 
@@ -17,7 +23,9 @@ console.log(Numbers);
 
 function lowercaseLetters = Math.floor(Math.random() * 26);
 
+function numbers = Math.floor(Math.random() * 10);
 
+function symbols = Math.floor(math.random() * 33);
 
 for (let i = 0; i < 8; i++) {
   
@@ -36,5 +44,5 @@ function writePassword() {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword: generatepassword);
 
