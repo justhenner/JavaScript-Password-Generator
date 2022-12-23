@@ -29,8 +29,8 @@ MIT License
 
 ## Author Info
 
-LinkedIn: 
-Github:
+LinkedIn: https://www.linkedin.com/in/hennerespinoza/
+Github:@justhenner
 
 ## Collaborators 
 
