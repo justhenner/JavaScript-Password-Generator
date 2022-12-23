@@ -12,8 +12,18 @@ var symbols = "!#$%&'()*+,-.?:;<=>?@[]\]^_`{|}~";
 function generatePassword()
   console.log(randomNumber)
 
-function uppercaseLetters 
+function uppercaseLetters = Math.floor(Math.random() * 26);
+console.log(Numbers);
 
+function lowercaseLetters = Math.floor(Math.random() * 26);
+
+
+
+for (let i = 0; i < 8; i++) {
+  
+  var randomNumber = Math.floor(Math.random() * 100);
+  console.log(randomNumber);
+  }
   return randomNumber
 
 // Write password to the #password input
