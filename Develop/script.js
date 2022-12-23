@@ -12,7 +12,7 @@ var symbols = "!#$%&'()*+,-.?:;<=>?@[]\]^_`{|}~";
 function generatePassword()
   console.log(randomNumber)
 
-
+function uppercaseLetters 
 
   return randomNumber
 
